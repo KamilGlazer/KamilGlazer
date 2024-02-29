@@ -4,9 +4,8 @@
 
 ### About me:
 
-- 🔭 I’m a CS student
-- 🌱 I’m currently learning Java ⚡
-- 📫 How to reach me:  k.glazer2003@gmail.com
+Java ⚡
+k.glazer2003@gmail.com
 
 
 
