@@ -7,7 +7,7 @@
 
 
 
- ## 🛠️ My favourite tools
+ ## 🛠️ Tech Stack 
  
  ### 👨‍💻 Programming languages
 <p align="left">
