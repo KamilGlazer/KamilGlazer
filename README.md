@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
+![Profile views](https://komarev.com/ghpvc/?username=KamilGlazer)
 
 ### Contact:
 📧 - k.glazer2003@gmail.com
